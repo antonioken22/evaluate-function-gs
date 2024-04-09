@@ -1,7 +1,7 @@
 # EVALUATEFUNCTION(expression, variable, value)
 Google Apps Script Custom Formula that evaluates a mathematical expression with a variable substituted by a given value.
 
-### Since Google Sheets doesn't have a built in function for this, I made one myself. 
+### Since Google Sheets doesn't have a built in formula for this so, I made one myself. 
 
 ## YouTube Shorts Demo
 https://youtube.com/shorts/xIv6wPgIyZo?si=cgYEywZShYYc9FtW
