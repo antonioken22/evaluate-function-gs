@@ -3,6 +3,9 @@ Google Apps Script Custom Formula that evaluates a mathematical expression with 
 
 ### Since Google Sheets doesn't have a built in function for this, I made one myself. 
 
+## YouTube Shorts Demo
+https://youtube.com/shorts/xIv6wPgIyZo?si=cgYEywZShYYc9FtW
+
 ## EVALUATEFUNCTION Demo
 <table>
   <tr>
