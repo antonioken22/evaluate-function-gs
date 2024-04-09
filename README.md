@@ -6,7 +6,7 @@ Google Apps Script Custom Formula that evaluates a mathematical expression with 
 ## YouTube Shorts Demo
 https://youtube.com/shorts/xIv6wPgIyZo?si=cgYEywZShYYc9FtW
 
-## EVALUATEFUNCTION Demo
+## EVALUATEFUNCTION() Demo
 <table>
   <tr>
     <th colspan="2">Syntax Errors return the entire string to be evaluated instead of the final result (Shown on the right).</th>
